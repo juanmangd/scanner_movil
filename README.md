@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Yii 2 Advanced Application Template
 ===================================
 
@@ -95,3 +96,7 @@ the installed application. You only need to do these once for all.
 
 To login into the application, you need to first sign up, with any of your email address, username and password.
 Then, you can login into the application with same email address and password at any time.
+=======
+# scanner_movil
+Sanner Movil
+>>>>>>> d7c9f0aaa4f1f6da5465fa64ce38a8290ca6f3b9
